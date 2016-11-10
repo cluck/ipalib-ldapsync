@@ -1,0 +1,2 @@
+include ldapsync.py
+include ldapsync.js
